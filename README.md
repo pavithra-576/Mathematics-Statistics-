@@ -131,7 +131,7 @@ Some useful learning platforms and references:
 
 # Author
 
-Pavithra
+Pavithra S
 
 Passionate about Artificial Intelligence, Data Science, Mathematics, and Continuous Learning.
 
